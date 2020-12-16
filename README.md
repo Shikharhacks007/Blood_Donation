@@ -8,8 +8,11 @@ This project allows the user to check whether the required blood deposits of a p
 The system also shows information based on the age group of people who donate blood and this data is graphically available in the form of bar graphs for the user to select respectively . Moreover,the system has additional features such as sign up and login with other details. The user can view the blood group and the amount of blood of each group once logged in. The software is written in python with tkinter as the user interface. It is supported by a Mysql database to store the information of the donor, specifications of the blood and more details. This software is made for a social cause and to help society. 
 
 Advantages of this blood bank system:
-⦁	Encourages blood donors to donate as the system tells every necessary detail they need to know.
-⦁	Helps people find blood donors in times of need and emergency. 
-⦁	This system is automated which reduces manual entries and manual computation of data.
-⦁	This system uses graphs in order to make the data simple to understand and has minimumn error compared to mannual procedures.
 
+⦁	Encourages blood donors to donate as the system tells every necessary detail they need to know.
+
+⦁	Helps people find blood donors in times of need and emergency. 
+
+⦁	This system is automated which reduces manual entries and manual computation of data.
+
+⦁	This system uses graphs in order to make the data simple to understand and has minimumn error compared to mannual procedures.
